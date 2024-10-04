@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wahabmd
+- 👋 Hi, I’m Wahab Muhammad
 - 👀 I’m interested in Design and Debating
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on projects
