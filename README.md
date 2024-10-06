@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wahab Muhammad
-- 👀 I’m interested in Design and Debating
+- 👀 I design dreams
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
